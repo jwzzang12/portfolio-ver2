@@ -5,49 +5,49 @@
       "desc": "Enabled users to post text and images while providing a familiar social media experience • Implemented profile name customization and seamless sign-in/sign-up options via Google, GitHub, and email authentication • Leveraged Firebase as the backend, utilizing its authentication, cloud storage, and database services for efficient and secure data management",
       "github": "https://github.com/jwzzang12/switter",
       "link": "https://jwzzang12.github.io/switter/",
-      "stack": "<li>React</li><li>Firebase</li><li>SCSS</li>"
+      "stack": "<li>React</li><li>Firebase</li><li>Sass</li>"
     },
     {
       "title": "Toucan Coffee Shop [5]",
       "desc": "Utilized React.js to build the Menu page and implement a user-friendly Cart hamburger menu • Elevated team members’ knowledge with prior React experience • Practiced Agile by engaging in weekly team meetings, tracking progress on Trello",
       "github": "https://github.com/chingu-voyages/v41-toucans-team-04",
       "link": "https://development--toucan-coffee.netlify.app",
-      "stack": "<li>React</li><li>Router</li><li>SCSS</li>"
+      "stack": "<li>React</li><li>Router</li><li>Github</li>"
     },
     {
-      "title": "PAQAGO translator",
-      "desc": "• Created a server using Node.js and deployed it using fly.io, providing a backend for a translation function • Used Naver Papago API to enable translation functionality, allowing users to translate content in real-time • Utilized Axios to send content to the translation server and retrieve the translated results",
+      "title": "Translator",
+      "desc": "Created a server using Node.js and deployed it using fly.io, providing a backend for a translation function • Used Naver Papago API to enable translation functionality, allowing users to translate content in real-time • Utilized Axios to send content to the translation server and retrieve the translated results",
       "github": "https://github.com/jwzzang12/paqago-react",
       "link": "https://moonjiwon-translator.netlify.app",
-      "stack": "<li>React</li><li>Axios</li><li>Github</li><li>SCSS</li>"
+      "stack": "<li>React</li><li>Node.js</li><li>Fly.io</li><li>Sass</li>"
     },
     {
       "title": "TMDB Web Site (Clone)",
       "desc": "Used TMDB’s API and React Router to create an interactive website providing comprehensive information about movies, TV shows • Implemented search functionality allowing users to search for movies or TV series based on title • Created detailed pages for each search result, presenting in-depth information including ratings, plot summaries, and cast details",
       "github": "https://github.com/jwzzang12/tmdb-clone",
       "link": "https://moonjiwon-tmdb-clone.netlify.app",
-      "stack": "<li>React</li><li>Router</li><li>Axios</li><li>SCSS</li>"
+      "stack": "<li>React</li><li>Router</li><li>Axios</li><li>Sass</li>"
     },
     {
       "title": "Todo-Tada",
       "desc": "Simple task app built with React, Redux • Intuitive UX design like adding tasks with “+” button or enter key, exiting task edit by clicking outside the edit window)",
       "github": "https://github.com/jwzzang12/todo-tada",
       "link": "https://moonjiwon-todo-tada.netlify.app",
-      "stack": "<li>React</li><li>Redux</li><li>SCSS</li>"
+      "stack": "<li>React</li><li>Redux</li><li>Sass</li>"
     },
     {
       "title": "The Weather App [2]",
       "desc": "A simple weather app built with React using Openweather API • Utilized Geolocation’s customer hook to instantly locate user • Became well-versed with Github branching",
       "github": "https://github.com/jwzzang12/weather-app/tree/moon",
       "link": "https://moonjiwon-weather-app.netlify.app/",
-      "stack": "<li>React</li><li>Axios</li><li>Github</li><li>SCSS</li>"
+      "stack": "<li>React</li><li>Axios</li><li>Github</li><li>Sass</li>"
     },
     {
       "title": "Box Office playlist",
       "desc": "Built a web application for box office rankings using the Korean Film Council open API • Implemented a user-friendly interface with a 'meatball' button that allows easy selection of date ranges for viewing rankings",
       "github": "https://github.com/jwzzang12/box-office",
       "link": "https://moonjiwon-box-office.netlify.app",
-      "stack": "<li>Vanilla JS</li><li>SCSS</li><li>HTML</li>"
+      "stack": "<li>Vanilla JS</li><li>Sass</li><li>HTML</li>"
     }
   ]
 }
